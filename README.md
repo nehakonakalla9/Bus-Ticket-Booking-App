@@ -39,27 +39,9 @@ This application allows users to register, log in, browse buses, check seat avai
 - 🔁 Axios (API Calls)
 - 🎨 CSS for Styling
 
-🔐 Authentication Flow
--User registers / logs in
--Backend returns auth token
--Token is used for protected API requests
--Ensures secure access to bookings and user data
-
-🚀 Future Enhancements
-
-💳 Online Payment Integration
-
-📱 Mobile Responsive UI
-
-📍 Google Maps for Routes
-
-📧 Email & SMS Notifications
-
-📊 Booking Analytics Dashboard
 
 
 
 
 
-## 📁 Project Structure
 
