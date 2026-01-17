@@ -1,0 +1,35 @@
+# =========================
+# Python / Django
+# =========================
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+venv/
+env/
+ENV/
+*.log
+
+# Django static & media
+staticfiles/
+media/
+
+# =========================
+# React / Node
+# =========================
+node_modules/
+build/
+dist/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Git
+# =========================
+*.swp
