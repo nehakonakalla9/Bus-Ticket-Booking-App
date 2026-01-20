@@ -1,2 +1,8 @@
-React_travels/* linguist-language=JavaScript
-django/* linguist-language=Python
+# Mark React frontend as JavaScript
+React_travels/travels/src/* linguist-language=JavaScript
+React_travels/travels/public/* linguist-language=HTML
+React_travels/travels/package.json linguist-language=JavaScript
+React_travels/travels/vite.config.js linguist-language=JavaScript
+
+# Keep Django backend as Python
+django/** linguist-language=Python
