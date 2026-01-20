@@ -41,6 +41,7 @@ This application allows users to register, log in, browse buses, check seat avai
 
 
 
+⚠️ **Work in Progress:** Backend (Django REST Framework) is fully implemented with authentication, buses, seats, and bookings. Frontend (React) is integrated. Deployment on Render is in progress. This project demonstrates full-stack development skills.
 
 
 
